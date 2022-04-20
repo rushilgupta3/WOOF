@@ -1,0 +1,50 @@
+
+
+.page
+{
+	background-color :#fff ;	
+}
+
+
+
+.row1
+{
+	text-align:center; 
+	margin-top:4%;
+	font-size:100px;
+	color:rgb(33, 203, 233) ;
+	/* background-color:F5FFFA; */
+	text-shadow: 5px 5px 8px silver ;
+}
+.row2
+{
+	text-align:center;
+	font-family : URW Chancery L,cursive;
+	font-style:italic;
+	font-size:30px;
+	/* background-color:F5FFFA; */
+	
+}
+.row{
+	padding:0px;
+	margin:0px;
+}
+.card1
+{
+	background-color:F5FFFA ;
+}
+.card2
+{
+	background-color:F5FFFA }
+.card3
+{
+	background-color:F5FFFA ;
+}
+.card4
+{
+	background-color:F5FFFA ;
+}
+.card5
+{
+	background-color:F5FFFA ;
+}
